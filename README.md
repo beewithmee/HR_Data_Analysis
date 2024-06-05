@@ -36,7 +36,7 @@ An interesting pattern is seen that employees that previously worked with only o
 
 Low salary of employees leads to attrition in significant numbers from different job roles and from different age groups.
 
-Male Attrition% > Femal Attrition%
+Male Attrition% > Female Attrition%
 
 Low salary hike is one of the reasons for attrition.
 
