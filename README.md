@@ -30,7 +30,7 @@ In addition average monthly incomes of age groups 18-25 and 26-35 lie in the low
 A pattern from the data is found that shows an inverse proportional relation between salary hike percentage and attrition count. 
 Employees having lowest percentage of salary hike has the highest contribution in attrition and employees having highest percentage of salary hike has least contribution in attrition.
 
-An interesting pattern is seen that employees that previously worked with only one company have highest contribution in attrition i.e. approximately 41% followed by employees that have no experience or had not worked with any companies with a contribution approx. 10%. Then it settles down to 5%-7% with increase of experience in multiple number of companies. So almost 51% of attritted employees have experience with 1 or no companies. From the current employees in the company approx. 35% of employees have experience with only one company and approx. 13% of employees have not worked with any companies. So almost 48% of the employees belong to the highest contributing category in attrition in terms of experience.
+An interesting pattern is seen that employees are working for 0 to 2 years have tha most highest attrition i.e, Employees who have worked for 1 year have highest contribuition in attrition.
 
 **Final Verdicts**
 
