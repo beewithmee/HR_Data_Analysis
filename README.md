@@ -3,7 +3,7 @@ Company's HR Data Analysis and Employee Attrition Analysis Dashboard
 
 **Problem Statement**
 
-The problem at hand revolves around comprehensively analyzing the phenomenon of employee attrition within Company ABC. Employee attrition, the process of employees voluntarily leaving the organization, poses significant challenges to organizational stability, productivity, and growth. By investigating the underlying causes, patterns, and implications of attrition, Company XYZ aims to develop strategic interventions to mitigate attrition rates and foster a more stable and thriving workforce environment.
+The problem at hand revolves around comprehensively analyzing the phenomenon of employee attrition within Company ABC. Employee attrition, the process of employees voluntarily leaving the organization, poses significant challenges to organizational stability, productivity, and growth. By investigating the underlying causes, patterns, and implications of attrition, Company ABC aims to develop strategic interventions to mitigate attrition rates and foster a more stable and thriving workforce environment.
 
 **Data Preparation and Modelling**
 
