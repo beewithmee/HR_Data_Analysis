@@ -7,7 +7,7 @@ The problem at hand revolves around comprehensively analyzing the phenomenon of 
 
 **Data Preparation and Modelling**
 
-After importing the data from the data source performed #powerquery is used for #datacleaning and #datamodelling. #dax are used to append or create calculated measures.
+After importing the data from the data source performed power query is used for data cleaning and data modelling. #dax are used to append or create calculated measures.
 
 Data Size: 1473 rows, 38 columns
 
